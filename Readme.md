@@ -12,3 +12,6 @@ I am Prerna, I am learning a java language from road to code
 - Dancing
 - Singing
 
+## Goal
+
+I have a goal to become a software engineer and build a new project on website.
